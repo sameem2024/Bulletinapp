@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bulletinapp/static/css/main.89bfae2d.css",
+    "main.js": "/Bulletinapp/static/js/main.0d8ac581.js",
+    "index.html": "/Bulletinapp/index.html",
+    "main.89bfae2d.css.map": "/Bulletinapp/static/css/main.89bfae2d.css.map",
+    "main.0d8ac581.js.map": "/Bulletinapp/static/js/main.0d8ac581.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89bfae2d.css",
+    "static/js/main.0d8ac581.js"
+  ]
+}
